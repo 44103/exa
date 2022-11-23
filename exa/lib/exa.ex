@@ -15,4 +15,8 @@ defmodule Exa do
   def hello do
     :world
   end
+
+  def main(_ \\ "") do
+    IO.puts("Hello World!")
+  end
 end

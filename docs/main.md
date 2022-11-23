@@ -32,3 +32,10 @@ You can use "mix" to compile it, test it, and more:
 
 Run "mix help" for more commands.
 ```
+
+# Build
+```
+❯ mix escript.build
+Compiling 1 file (.ex)
+Generated escript exa with MIX_ENV=dev
+```
